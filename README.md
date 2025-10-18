@@ -57,6 +57,8 @@ I'm a developer based in Moscow, with a passion for Machine Learning, Data Analy
 | [Financial University Projects](https://github.com/Ackrome/FU)  |collection of my projects and work from the Financial University. | ![GitHub stars](https://img.shields.io/github/stars/Ackrome/FU?style=social) |
 | [LeetCode Solutions](https://github.com/Ackrome/leetcode-solutions) | My personal solutions to LeetCode problems. | ![GitHub stars](https://img.shields.io/github/stars/Ackrome/leetcode-solutions?style=social) |
 
+
+
 ---
 
 ### 📊 My GitHub Stats
@@ -68,3 +70,10 @@ I'm a developer based in Moscow, with a passion for Machine Learning, Data Analy
  </a>
 </div>
 
+### My laptop specs
+
+<div align="center">
+  <img src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
+  <img src="https://img.shields.io/badge/Intel%20Core_ULTRA_9_285H-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/NVIDIA-RTX5070TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</div>
