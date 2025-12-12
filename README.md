@@ -48,6 +48,11 @@ I'm a developer based in Moscow, with a passion for Machine Learning, Data Analy
   <img src ="https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
+  <img src="https://img.shields.io/badge/Dask-FD9A00?style=for-the-badge&logo=dask&logoColor=white" alt="Dask">
+  <img src="https://img.shields.io/badge/Prefect-070E3A?style=for-the-badge&logo=prefect&logoColor=white" alt="Prefect">
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO">
+  <img src="https://img.shields.io/badge/Plotly_Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Dash">
 </div>
 
 
